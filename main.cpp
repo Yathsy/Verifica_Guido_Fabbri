@@ -6,13 +6,13 @@ int main () {
     
      int contatore = 1;
      
-     cout << contatore << endl;
+     cout << "Contatore = " <<contatore << endl;
      
      for (int i = 0; i < 9; i++)
      {
          contatore++;
          
-         cout << contatore << endl;
+         cout << "Contatore = " << contatore << endl;
          
      }
      
